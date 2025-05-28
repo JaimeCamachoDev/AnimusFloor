@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **AnimusFloor**
 
-_**{{ repo-description }}**_
+_**Entorno tipo Animus para VR, usado como transición o zona segura fuera del área de juego.**_
 
 
 </header>
