@@ -1,6 +1,6 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![MP4 ‐ Hecho con Clipchamp (1)](https://github.com/user-attachments/assets/24ee1099-06e0-4107-9c9b-cf8b3440f2da)
 
 # **AnimusFloor**
 
@@ -19,14 +19,9 @@ _**Entorno tipo Animus para VR, usado como transición o zona segura fuera del �
 ### ⚙️ Repository Features
 Desactiva funciones que no necesitas en `Settings → Features`:
 
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
 - [ ] Confirmar que **Releases** sigue activado ✅
 
 ### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
 - [ ] Dejar Topics necesarios.
 
 
