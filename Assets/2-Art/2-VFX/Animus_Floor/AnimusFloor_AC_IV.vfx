@@ -6,7 +6,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AnimusFloor
+  m_Name: AnimusFloor_AC_IV
   m_Graph: {fileID: 114350483966674976}
   m_Infos:
     m_RendererSettings:
@@ -33,7 +33,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: AnimusFloor
+  m_Name: AnimusFloor_AC_IV
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -428,10 +428,10 @@ MonoBehaviour:
     collapsed: 0
   uiBounds:
     serializedVersion: 2
-    x: 1585
-    y: 1833
-    width: 3063
-    height: 2721
+    x: 0
+    y: 0
+    width: 4648
+    height: 4554
 --- !u!114 &114350483966675106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11827,7 +11827,7 @@ MonoBehaviour:
   - {fileID: 114350483966678130}
   m_ExposedName: SpawnVolumeSize
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 4
   m_Category: Density Control
   m_Min:
     m_Type:
@@ -12777,7 +12777,7 @@ MonoBehaviour:
   - {fileID: 114350483966678220}
   m_ExposedName: Grid
   m_Exposed: 1
-  m_Order: 7
+  m_Order: 5
   m_Category: 
   m_Min:
     m_Type:
