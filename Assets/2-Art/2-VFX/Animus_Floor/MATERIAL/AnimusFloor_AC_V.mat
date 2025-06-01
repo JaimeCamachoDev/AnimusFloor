@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AnimusGrig
+  m_Name: AnimusFloor_AC_V
   m_Shader: {fileID: -6465566751694194690, guid: 80c042c9831f5994d80380cd3a07576f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -33,7 +33,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _Noise_Power
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -51,15 +51,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distance: 3.56
-    - _Float_3: 0.4
-    - _Float_5: 3
+    - _Contrast: 0.25
+    - _Distance: 3
+    - _Float_3: 0.25
+    - _Float_5: 4
     - _Line: 0.86
-    - _Noise_Power: 1
+    - _Lines_Size: 3
+    - _Noise_Power: 2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Tile: 32
     m_Colors:
-    - _Color: {r: 2, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.61688876, g: 1.9723538, b: 6.8831816, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

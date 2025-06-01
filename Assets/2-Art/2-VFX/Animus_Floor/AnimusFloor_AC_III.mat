@@ -64,7 +64,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Radius: 3.87
-    - _Radius_Alpha: 99.12
+    - _Radius_Alpha: 4.9
     - _Time: 0.1
     - _Timer: 1
     m_Colors:

@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 3676373374958348912}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.65050757, z: -0, w: 0.75949985}
-  m_LocalPosition: {x: 0.53, y: 0.3, z: -12.51}
+  m_LocalPosition: {x: -1.37, y: 0.3, z: -12.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -313,7 +313,7 @@ VisualEffect:
       m_Array: []
     m_Vector3f:
       m_Array:
-      - m_Value: {x: 0.53, y: 0.3, z: -12.51}
+      - m_Value: {x: -1.37, y: 0.3, z: -12.51}
         m_Name: Point_transform_position
         m_Overridden: 1
       - m_Value: {x: 4, y: 2, z: 4}
