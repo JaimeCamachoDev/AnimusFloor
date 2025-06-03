@@ -51,17 +51,24 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast: 0.25
+    - _Contrast: 2
+    - _Contrast_1: 1
+    - _Contrast_min_pos: 1
     - _Distance: 3
+    - _Distance_1: 30
+    - _Distance_Max: 20
+    - _Distance_Min: 3
+    - _Distance_Min_pos: 4
+    - _Distance_Min_pos_1: 1.5
     - _Float_3: 0.25
     - _Float_5: 4
     - _Line: 0.86
-    - _Lines_Size: 3
-    - _Noise_Power: 2
+    - _Lines_Size: 3.5
+    - _Noise_Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Tile: 32
     m_Colors:
-    - _Color: {r: 0.61688876, g: 1.9723538, b: 6.8831816, a: 0}
+    - _Color: {r: 0.29678133, g: 0.8740878, b: 2.9960785, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
