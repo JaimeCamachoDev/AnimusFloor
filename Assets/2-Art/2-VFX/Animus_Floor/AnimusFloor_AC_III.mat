@@ -52,19 +52,19 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha: 0
-    - _Contrast_Height: 5.61
-    - _Contrast_Height_Alpha: 0.49
+    - _Contrast_Height: 7
+    - _Contrast_Height_Alpha: 0.5
     - _Float: 0.27
     - _Float_1: 5
     - _Height: 1
     - _Height_1: 1
     - _Height_Alpha: 1
     - _Height_Noise: 5
-    - _Height_Position: 0.4
+    - _Height_Position: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radius: 3.87
-    - _Radius_Alpha: 4.9
+    - _Radius: 3
+    - _Radius_Alpha: 12
     - _Time: 0.1
     - _Timer: 1
     m_Colors:
