@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-3434844359630529710
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 10
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,13 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AnimusFloor_AC_V
-  m_Shader: {fileID: -6465566751694194690, guid: 80c042c9831f5994d80380cd3a07576f, type: 3}
+  m_Name: AnimusFloor_AC_X
+  m_Shader: {fileID: -6465566751694194690, guid: 64dfee189fecc20489273365ce8d6e4a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _EMISSION
+  m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -34,10 +20,14 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: _Noise_Power
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2D_019bd348f8fe409cb6c685c19cef6d33_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 118d6a1967984ec469c333a8672f6fca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -52,24 +42,25 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast: 2
-    - _Contrast_1: 1
-    - _Contrast_min_pos: 1
-    - _Distance: 3
-    - _Distance_1: 30
-    - _Distance_Max: 20
-    - _Distance_Min: 3
-    - _Distance_Min_pos: 4
-    - _Distance_Min_pos_1: 1.5
-    - _Float_3: 0.25
-    - _Float_5: 4
-    - _Line: 0.86
-    - _Lines_Size: 3.5
-    - _Noise_Power: 1
+    - _Float: -0.3
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Tile: 32
-    m_Colors:
-    - _Color: {r: 0.29678133, g: 0.8740878, b: 2.9960785, a: 0}
+    - _Size: -0.05
+    - _Tiling: 92.65
+    - _Time_Scale: 70
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+--- !u!114 &4522531352910538876
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
