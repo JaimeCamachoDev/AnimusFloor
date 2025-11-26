@@ -1108,8 +1108,8 @@
     "m_ObjectId": "391ac2fc29c04b9b94777e4edfa0de4f",
     "m_Title": "Water Displacement",
     "m_Position": {
-        "x": -1512.0,
-        "y": -552.0
+        "x": -1511.9998779296875,
+        "y": -551.9998168945313
     }
 }
 
@@ -2718,8 +2718,8 @@
     "m_ObjectId": "d9876100ef3641dc9c251ee2dbae3a6f",
     "m_Title": "Position",
     "m_Position": {
-        "x": -1166.9998779296875,
-        "y": -1002.9999389648438
+        "x": -1167.0,
+        "y": -1003.0
     }
 }
 
